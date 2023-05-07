@@ -14,7 +14,7 @@ Introducing **SummaRead** - A Chrome extension that enhances your online reading
 - **Quick Toggle** 🔘: Enable or disable SummaRead with a single click using the convenient toggle button in the browser toolbar.
 - **Article Detection** 🔍: SummaRead automatically detects when you're viewing an article or blog post, prompting you to enable the extension.
 
-![SummaRead Logo](./assets/logo.png)
+<img src="./assets/logo.png" width="100" height="100">
 
 ## Tech Stack 💻
 
