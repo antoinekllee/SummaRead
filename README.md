@@ -44,12 +44,23 @@ Introducing **SummaRead** - A Chrome extension that enhances your online reading
    npm install
    ```
 
-4. Start the development server
+4. Build the project
+   ```
+   npm run build
+   ```
+
+5. Load the extension in Chrome
+
+   - Open the Chrome Extensions page (`chrome://extensions/`)
+   - Ensure that the "Developer mode" toggle is turned on in the top right corner
+   - Click the "Load unpacked" button in the top left corner and select the `dist` folder in your project directory
+
+6. Start the development server with live reloading (optional)
    ```
    npm start
    ```
 
-5. Open your browser and go to `http://localhost:3000` to view the app
+   Note: To see the live-reloaded changes, you will need to manually reload the extension in Chrome after each build. To do this, click the "Reload" button (circular arrow) on your extension card in the `chrome://extensions/` page.
 
 ## License 📄
 
