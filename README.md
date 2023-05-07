@@ -8,13 +8,15 @@ Introducing **SummaRead** - A Chrome extension that enhances your online reading
 
 ## Key Features 🚀
 
+<p align="center">
+   <img src="./assets/logo.png" width="100" height="100">
+</p>
+
 - **Clutter-Free Reading** 🧹: Automatically remove ads, pop-ups, and distracting elements from articles, leaving only the main text and relevant media.
 - **AI-Powered Summaries** 🤖: Generate concise and accurate summaries of articles with the power of AI, providing an overview and saving time.
 - **Customizable Appearance** 🎨: Easily switch between light and dark themes for optimal readability, and adjust text size with simple +/- buttons.
 - **Quick Toggle** 🔘: Enable or disable SummaRead with a single click using the convenient toggle button in the browser toolbar.
 - **Article Detection** 🔍: SummaRead automatically detects when you're viewing an article or blog post, prompting you to enable the extension.
-
-<img src="./assets/logo.png" width="100" height="100">
 
 ## Tech Stack 💻
 
