@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "SummaRead",
+    "version": "1.0.0",
+    "description": "Enhance your online reading experience with a clutter-free environment and AI-powered summaries.",
+    "browser_action": {
+      "default_popup": "index.html",
+      "default_icon": {
+        "16": "icon_16.png",
+        "48": "icon_48.png",
+        "128": "icon_128.png"
+      }
+    },
+    "icons": {
+      "16": "icon_16.png",
+      "48": "icon_48.png",
+      "128": "icon_128.png"
+    },
+    "permissions": [
+      "activeTab"
+    ]
+  }
+  
