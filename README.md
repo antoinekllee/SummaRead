@@ -18,10 +18,14 @@ Introducing **SummaRead** - A Chrome extension that enhances your online reading
 
 ## Tech Stack 💻
 
+![SummaRead Banner](./assets/tech_stack.png)
+
 - Frontend: React.js
 - Backend: Node.js
 
 ## Getting Started 🚀
+
+![SummaRead Getting Started](./assets/getting_started.png)
 
 ### Prerequisites
 
