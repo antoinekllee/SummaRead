@@ -60,7 +60,7 @@ Introducing **SummaRead** - A Chrome extension that enhances your online reading
    npm start
    ```
 
-   Note: To see the live-reloaded changes, you will need to manually reload the extension in Chrome after each build. To do this, click the "Reload" button (circular arrow) on your extension card in the `chrome://extensions/` page.
+Note: To see the live-reloaded changes, you will need to manually reload the extension in Chrome after each build. To do this, click the "Reload" button (circular arrow) on your extension card in the `chrome://extensions/` page.
 
 ## License 📄
 
